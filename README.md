@@ -1,4 +1,4 @@
-# ReducedNPCs
+# 📜 ReducedNPCs
 A simple FiveM script for reducing NPCs density, written in Lua.
 
 ## Download & Installation
