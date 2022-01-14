@@ -10,11 +10,11 @@ git clone https://github.com/man0s/ReducedNPCs [scripts]/reducednpcs
 ```
 
 ### Manually
-- Download https://github.com/man0s/ReducedNPCs/archive/master.zip
+- Download the git repository https://github.com/man0s/ReducedNPCs/archive/master.zip
 - Put it in the `[scripts]` directory
 
 ## Installation
-The script's default density value is 0.5, you can change it by editing variable `DensityMultiplier` in `client.lua` file.
+The script's default density value is 0.5, you can change it by editing the variable `DensityMultiplier` in `client.lua` file.
 - Add this in your `server.cfg`:
 
 ```
